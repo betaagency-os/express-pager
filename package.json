@@ -1,0 +1,33 @@
+{
+  "name": "express-pager",
+  "version": "0.0.1",
+  "description": "Serve views from specified directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Bubujka/express-pager.git"
+  },
+  "keywords": [
+    "express",
+    "middleware",
+    "page",
+    "html",
+    "views"
+  ],
+  "author": "Aleksej Kamynin <zendzirou@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bubujka/express-pager/issues"
+  },
+  "homepage": "https://github.com/Bubujka/express-pager",
+  "dependencies": {
+    "underscore": "^1.6.0"
+  },
+  "devDependencies": {
+    "express": "*"
+  }
+
+}
